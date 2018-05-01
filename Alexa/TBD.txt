@@ -1,0 +1,14 @@
+-add the double loc/dest confirm via link saved in tab outliner
+-add the linking with gmaps if possible
+-add the backend with auto guys if needed
+-scheduling for above
+-a* or dijkstras for route or use
+-ss ak uk app
+-notify users via asking feedback and detailed invoice
+-generate random unique no for id, and assign auto no, and tell it out
+-link invoice with amazon pay so no hassles
+-make a case of no autos right now
+-link backend with drivers device n dbs
+-optimise all
+-test
+-publish
